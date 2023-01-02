@@ -1,0 +1,1 @@
+gcloud alpha cloud-shell ssh --authorize-session
