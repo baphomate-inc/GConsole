@@ -8,6 +8,9 @@ But it's still under development, be the first to try it :)<br>
 Web site : <a href="https://baphomate.rf.gd">Baphomate Inc</a>
 <br>
 Forums : <a href="https://forums.baphomate.rf.gd">Forums Baphomate</a>
+<hr>
+<h1>Screenshots</>
+<img src="https://raw.githubusercontent.com/baphomate-inc/GConsole/main/img/IMG_20230103_003921.jpg" width="80px" height="80px" />  <img src="https://raw.githubusercontent.com/baphomate-inc/GConsole/main/img/IMG_20230103_003909.jpg" width="80px" height="80px" /> <img src="https://raw.githubusercontent.com/baphomate-inc/GConsole/main/img/IMG_20230103_003851.jpg" width="80px" height="80px" />   
 
 <h1>Installations for termux</h1>
 
