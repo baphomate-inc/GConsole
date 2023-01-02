@@ -42,8 +42,8 @@ main(){
         chmod +x sdk.sh
         ./sdk.sh --install-dir=$PREFIX
         clear
-        cp -rf data/gconsole $HOME/../usr/bin 
-        chmod $HOME/../usr/bin/gconsole
+        cp -rf data/gconsole $HOME../usr/bin 
+        chmod $HOME../usr/bin/gconsole
         cd
         clear
         echo -e """
