@@ -15,7 +15,7 @@ main(){
     #________color_end
     ############################
     #../GConsole
-    GCTermux(){
+    GCTermux(){ #__for termux
         packages="python python2 wget curl openssh"
         modules="requirements.txt"
         clear
@@ -59,7 +59,7 @@ main(){
         $def Powered by Google Cloud and Baphomate Inc
         """
         
-    }
+    } #__end for termux
     #____GConsole_end
     ###########################
     #loading 
