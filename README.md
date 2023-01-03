@@ -22,6 +22,18 @@ chmod +x *
 bash main.sh 
 ```
 <br>
+<b>Note: </b>
+<br>
+after the installation process is complete open a new tab or new session on the terminal (in order to reload the terminal).
+after that setup your ssh phrase key (follow the form provided) then
+input command to start a console session: 
+```
+gconcole atau gcloud alpha cloud-shell 
+```
+if the above command has an error then use the command below:
+```
+gcloud alpha cloud-shell ssh --authorize-session
+```
 <hr>
 <a href="https://saweria.co/baphomate">Donate via Saweria dana,ovo,gopay</a>
 
