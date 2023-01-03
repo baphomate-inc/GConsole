@@ -53,7 +53,8 @@ main(){
         $ylw Type commands : gcloud auth login
         then follow the prompts.
         After that you can enter the ssh session
-        with the command: gconsole
+        with the command: gconsole or gcloud alpha cloud-shell ssh 
+        if something goes wrong try repeating the command gconcole or gcloud alpha cloud-shell ssh --authorize-session
         
         $def Copyright ©2022 created by WarceuProject 
         $def Powered by Google Cloud and Baphomate Inc
