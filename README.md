@@ -29,7 +29,7 @@ after that setup your ssh phrase key (follow the form provided) then
 input command to start a console session: 
 
 ```bash
-gconcole atau gcloud alpha cloud-shell 
+gconcole or gcloud alpha cloud-shell 
 ```
 if the above command has an error then use the command below:
 
