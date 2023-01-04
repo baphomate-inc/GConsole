@@ -25,6 +25,11 @@ bash main.sh
 <b>Note: </b>
 <br>
 after the installation process is complete open a new tab or new session on the terminal (in order to reload the terminal).
+then authenticate your cloud account with the command:
+
+```bash 
+gcloud auth login
+```
 after that setup your ssh phrase key (follow the form provided) then
 input command to start a console session: 
 
