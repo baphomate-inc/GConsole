@@ -25,12 +25,21 @@ bash main.sh
 <b>Note: </b>
 <br>
 after the installation process is complete open a new tab or new session on the terminal (in order to reload the terminal).
+Authenticate the ssh account from google cloud with the command:
+
+```
+gcloud auth login 
+```
+
 after that setup your ssh phrase key (follow the form provided) then
 input command to start a console session: 
+
 ```
 gcloud alpha cloud-shell 
 ```
+
 if the above command has an error then use the command below:
+
 ```
 gcloud alpha cloud-shell ssh --authorize-session
 ```
